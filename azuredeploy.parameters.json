@@ -36,7 +36,7 @@
             "value": "<PostgreSQL Hyperscale deployment (true/false)>"
         },
         "templateBaseUrl": {
-            "value": "https://raw.githubusercontent.com/aurnovcy/tailwind-manufacturing-data-services-demo/main/"
+            "value": "https://raw.githubusercontent.com/aurnovcy/lucerne-publishing-data-services-demo/main/"
         }
     }
 }
