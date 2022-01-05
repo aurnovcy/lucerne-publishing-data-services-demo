@@ -10,7 +10,7 @@
         },
         "vmName": {
             "type": "string",
-            "defaultValue": "Lucerne-Data1",
+            "defaultValue": "LucerneData2",
             "metadata": {
                 "description": "The name of you Virtual Machine."
             }
